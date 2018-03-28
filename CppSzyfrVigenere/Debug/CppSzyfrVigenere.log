@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ryfles\desktop\cppszyfrvigenere\cppszyfrvigenere\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryfles\desktop\cppszyfrvigenere\cppszyfrvigenere\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  CppSzyfrVigenere.vcxproj -> C:\Users\Ryfles\Desktop\CppSzyfrVigenere\Debug\CppSzyfrVigenere.exe
